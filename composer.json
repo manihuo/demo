@@ -1,0 +1,14 @@
+{
+    "name": "manihuo/demo",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "zwj",
+            "email": "1374770230@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
