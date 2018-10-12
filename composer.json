@@ -10,5 +10,13 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "files":[
+            "common/function.php"
+        ],
+        "psr-4":{
+            "test\\":"test"
+        }
+    }
 }
